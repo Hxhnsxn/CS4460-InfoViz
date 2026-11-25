@@ -2,3 +2,16 @@
     color: darkblue;
     size: 22pt;
 }
+
+#temp-chart {
+    float: left;
+}
+
+.tick>line {
+    fill: none;
+    stroke: black;
+}
+
+.tick>text {
+    fill: black;
+}
